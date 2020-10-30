@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... 
 - 📫 How to reach me: priyanshbordia2@gmail.com
 - 😄 Pronouns: ... 😇
-- ⚡ Fun fact: Quarantine is not that bad.!
+- ⚡ Fun fact: Quarantine is not that bad. or is it.!
 
