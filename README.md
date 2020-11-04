@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 😇
 - ⚡ Fun fact: Quarantine is not that bad. or is it.!
 
+[![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social)]
