@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Finding a interesting project
 - 💬 Ask me about ... 
 - 📫 How to reach me: priyanshbordia2@gmail.com
-- 😄 Pronouns: ... 😇
+- 😄 Pronouns: ... he / his / him
 - ⚡ Fun fact: Quarantine is not that bad. or is it.!
 
 ![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social)
