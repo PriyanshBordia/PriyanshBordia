@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Finding a scintillating theme to work on.
 - 🌱 I’m currently learning ... Java and Database Management along with that I am studying Computer Architecture.
 - 👯 I’m looking to collaborate on Ocean Cleanup Projects
-- 🤔 I’m looking for help with ... Finding a interesting project
+- 🤔 I’m looking for help with ... Finding an interesting project
 - 💬 Ask me about ... 
 - 📫 How to reach me: priyanshbordia2@gmail.com
 - 😄 Pronouns: ... he / his / him
