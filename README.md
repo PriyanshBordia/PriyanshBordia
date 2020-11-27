@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Ocean Cleanup Projects
 - 🤔 I’m looking for help with ... Finding an interesting project
 - 💬 Ask me about ... 
-- 📫 How to reach me: priyanshbordia2@gmail.com
+- 📫 How to reach me: <a href = "mailto:priyanshbordia2@gmail.com">E-mail</a>
 - 😄 Pronouns: ... he / his / him
 - ⚡ Fun fact: Quarantine is not that bad. or is it.!
 
