@@ -21,6 +21,3 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/PriyanshBordia" aria-label="Follow @PriyanshBordia on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@PriyanshBordia-navy?style=for-the-badge"/>
 </a>
-
-<a href="https://github.com/PriyanshBordia" aria-label="Follow @PriyanshBordia on Twitter"><img  src="https://img.shields.io/badge/Follow👉-@PriyanshBordia1-blue?style=for-the-badge"/>
-</a>
