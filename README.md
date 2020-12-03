@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![Twitter Follow](https://img.shields.io/twitter/follow/PriyanshBordia1?label=Follow&style=social)
 
 <br>
-
+<!--
 <a href="https://github.com/PriyanshBordia" aria-label="Follow @PriyanshBordia on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@PriyanshBordia-navy?style=for-the-badge"/>
 </a>
+-->
