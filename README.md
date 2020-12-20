@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Java and Database Management along with that I am studying Computer Architecture.
 - 👯 I’m looking to collaborate on Ocean Cleanup Projects
 - 🤔 I’m looking for help with ... Finding an interesting project
-- 💬 Ask me about ... 
+- 💬 Ask me about ... <a href = "https://priyanshbordia.github.io" style="text-decoration: none !important;">anything</a>. 
 - 📫 How to reach me: <a href = "mailto:priyanshbordia2@gmail.com">E-mail</a>
 - 😄 Pronouns: ... he / his / him
 - ⚡ Fun fact: Quarantine is not that bad. or is it.!
