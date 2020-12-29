@@ -6,6 +6,8 @@ Here are some ideas to get you started:
 -->
 <img src = "https://github.com/PriyanshBordia/PriyanshBordia.github.io/blob/master/Cards/Screenshot%202020-12-17%20at%207.04.10%20PM.png" />
 
+<hr>
+
 - 🔭 I’m currently working on ... Finding a scintillating theme to work on.
 - 🌱 I’m currently learning ... Java and Database Management along with that I am studying Computer Architecture.
 - 👯 I’m looking to collaborate on Ocean Cleanup Projects
