@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **PriyanshBordia/PriyanshBordia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -8,6 +9,8 @@ Here are some ideas to get you started:
 
 <hr>
 
+- 👋 I'm Priyansh Bordia, a nerd 💻 from India.
+- 🏘 I'm pursuing Bachelor of Technology in Computer Science and Engineering.
 - 🔭 I’m currently working on ... Finding a scintillating theme to work on.
 - 🌱 I’m currently learning ... Java and Database Management along with that I am studying Computer Architecture.
 - 👯 I’m looking to collaborate on Ocean Cleanup Projects
@@ -15,6 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... <a href = "https://priyanshbordia.github.io" style="text-decoration: none !important;">anything</a>. 
 - 📫 How to reach me: <a href = "mailto:priyanshbordia2@gmail.com">E-mail</a>
 - 😄 Pronouns: ... he / his / him
+- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - ⚡ Fun fact: Quarantine is not that bad. or is it.!
 
 ![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social)
