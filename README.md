@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-- 👋 I'm Priyansh Bordia, a nerd 💻 from India.
+- 👋 I'm Priyansh Bordia, 💻 from India.
 - 🏘 I'm pursuing Bachelor of Technology in Computer Science and Engineering.
 - 🔭 I’m currently working on ... Finding a scintillating theme to work on.
 - 🌱 I’m currently learning ... DAA and Database Management along with that I am studying Operating Systems.
