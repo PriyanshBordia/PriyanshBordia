@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/PriyanshBordia1?label=Follow&style=social)
-![Résumé](https://drive.google.com/file/d/1-QIbu3gUQHk2LxPiANF322I9xVQ4z-hl/view)
+<br><hr>
+[Résumé](https://drive.google.com/file/d/1-QIbu3gUQHk2LxPiANF322I9xVQ4z-hl/view)
 <!--
 <a href="https://github.com/PriyanshBordia" aria-label="Follow @PriyanshBordia on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@PriyanshBordia-navy?style=for-the-badge"/>
 </a>
