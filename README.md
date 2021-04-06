@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 
 - 👋 I'm Priyansh Bordia, 💻 from India.
 - 🏘 I'm pursuing Bachelor of Technology in Computer Science and Engineering.
-- 🔭 I’m currently working on ... Finding a scintillating theme to work on.
-- 🌱 I’m currently learning ... DAA and Database Management along with that I am studying Operating Systems.
+- 🔭 I’m currently working on finding a scintillating theme to work on.
+- 🌱 I’m currently learning DAA and Database Management along with that I am studying Operating Systems.
 - 👯 I’m looking to collaborate on Ocean Cleanup Projects
-- 🤔 I’m looking for help with ... Finding an interesting project
-- 💬 Ask me about ... <a href = "https://priyanshbordia.github.io" style="text-decoration: none !important;">anything</a>. 
+- 🤔 I’m looking for help with Finding an interesting project
+- 💬 Ask me about <a href = "https://priyanshbordia.github.io" style="text-decoration: none !important;">anything</a>. 
 - 📫 How to reach me: <a href = "mailto:priyanshbordia2@gmail.com">E-mail</a>
-- 😄 Pronouns: ... he / his / him
+- 😄 Pronouns: he / his / him
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - ⚡ Fun fact: Quarantine is not that bad. or is it.!
 
