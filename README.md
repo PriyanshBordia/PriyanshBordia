@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 <hr>
 
-- 👋 I'm Priyansh Bordia, 💻 from India.
-- 🏘 I'm pursuing Bachelor of Technology in Computer Science and Engineering.
+- 👋 I'm Priyansh Bordia, web developer 💻 from India.
+- 🏘 I'm pursuing Bachelors in Technology major Computer Science and Engineering.
 - 🔭 I’m currently working on finding a scintillating theme to work on.
 - 🌱 I’m currently learning DAA and Database Management along with that I am studying Operating Systems.
 - 👯 I’m looking to collaborate on Ocean Cleanup Projects
