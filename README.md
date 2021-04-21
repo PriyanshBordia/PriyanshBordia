@@ -5,7 +5,7 @@
 **PriyanshBordia/PriyanshBordia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<img src = "https://github.com/PriyanshBordia/PriyanshBordia.github.io/blob/master/Cards/Screenshot%202020-12-17%20at%207.04.10%20PM.png" />
+<img src = "https://github.com/PriyanshBordia/PriyanshBordia.github.io/blob/master/Cards/Screenshot%202020-12-17%20at%207.03.28%20PM.png" />
 
 <hr>
 
