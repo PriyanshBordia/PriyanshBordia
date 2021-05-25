@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/priyanshbordia_?label=Follow&style=social)
 <br>
+
 <hr>
 
 [Résumé](https://drive.google.com/file/d/1-QIbu3gUQHk2LxPiANF322I9xVQ4z-hl/view)
