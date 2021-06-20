@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/priyanshbordia_?label=Follow&style=social)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyansh) 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyansh-b-81bb8218b) 
 <br>
 
 <hr>
