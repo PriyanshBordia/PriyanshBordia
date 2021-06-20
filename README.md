@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 
 <hr>
-
+![Maintenance](https://img.shields.io/maintenance/yes/2021?color=blue&label=Maintained)
 [Résumé](https://drive.google.com/file/d/1-QIbu3gUQHk2LxPiANF322I9xVQ4z-hl/view)
 [OctoProfile](https://octoprofile.now.sh/user?id=PriyanshBordia)
 <!--
