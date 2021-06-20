@@ -1,0 +1,11 @@
+Django
+environ
+Unicorn
+django-environ 
+psycopg2-binary
+django-extensions
+django-phonenumbers
+SQLAlchemy
+whitenoise
+Werkzeug
+virtualenv
