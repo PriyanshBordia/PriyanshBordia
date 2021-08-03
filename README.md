@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Quarantine is not that bad. or is it.!<br>
 </details>
 
-<details>
+<details open>
   <summary>GitHub Stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=onedark" alt="PriyanshBordia's GitHub Stats" />
