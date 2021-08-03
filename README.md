@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   <summary>GitHub Stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=onedark" alt="PriyanshBordia's GitHub Stats" />
+  <br>
+<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PriyanshBordia"> -->
 </details> 
 
 <details>
