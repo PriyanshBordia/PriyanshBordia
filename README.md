@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 -->
 
 <details>
+  <summary>About</summary>
   <br>
   <img src = "https://github.com/PriyanshBordia/PriyanshBordia.github.io/blob/master/Cards/Screenshot%202021-04-25%20at%2011.08.32%20PM.png" />
   <hr>
@@ -26,21 +27,28 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>📊 <b><i>GitHub Stats</i></b></summary>
+  <summary>GitHub Stats</summary>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=onedark" alt="PriyanshBordia's GitHub Stats" />
 </details> 
 
-![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/priyanshbordia_?label=Follow&style=social)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyansh-b-81bb8218b) 
-<br>
+<details>
+  <summary>Handles</summary>
+  <br>
+  
+  ![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social)
+  ![Twitter Follow](https://img.shields.io/twitter/follow/priyanshbordia_?label=Follow&style=social)
+  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyansh-b-81bb8218b) 
+  <br>
+  [Résumé](https://drive.google.com/file/d/1-QIbu3gUQHk2LxPiANF322I9xVQ4z-hl/view)
+  [OctoProfile](https://octoprofile.now.sh/user?id=PriyanshBordia)
+</details> 
 
 <hr>
 
-![Maintenance](https://img.shields.io/maintenance/yes/2021?color=blue&label=Maintained)
 
-[Résumé](https://drive.google.com/file/d/1-QIbu3gUQHk2LxPiANF322I9xVQ4z-hl/view)
-[OctoProfile](https://octoprofile.now.sh/user?id=PriyanshBordia)
+
+
 <!--
 <a href="https://github.com/PriyanshBordia" aria-label="Follow @PriyanshBordia on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@PriyanshBordia-navy?style=for-the-badge"/>
 </a>
