@@ -7,6 +7,7 @@
 **PriyanshBordia/PriyanshBordia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
 <details>
   <summary>About</summary>
@@ -27,15 +28,21 @@ Here are some ideas to get you started:
 </details>
 
 <details open>
-  <summary>GitHub Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=onedark" alt="PriyanshBordia's GitHub Stats" />
-  <br>
-<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PriyanshBordia"> -->
+<summary>GitHub Stats</summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=onedark" alt="PriyanshBordia's GitHub Stats" />
+<br>
 </details> 
 
 <details>
-  <summary>Handles</summary>
+  <summary>GitHub Language Stats</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshBordia&layout=compact)" alt="PriyanshBordia's GitHub Language Stats" />
+  <br>
+</details> 
+
+<details>
+  <summary>Social Handles</summary>
   <br>
   
   ![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social)
