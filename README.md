@@ -15,11 +15,11 @@ Here are some ideas to get you started:
   <img src = "https://github.com/PriyanshBordia/PriyanshBordia.github.io/blob/master/Cards/Screenshot%202021-04-25%20at%2011.08.32%20PM.png" />
   <hr>
 - 👋 I'm Priyansh Bordia, web developer 💻 from India. <br>
-- 🏘 I'm pursuing Bachelors in Technology major Computer Science and Engineering. <br>
+- 🏘 I'm pursuing Bachelors in Technology major Computer Science and Engineering from LNMIIT, Jaipur. <br>
 - 🔭 I’m currently working on finding a scintillating theme to work on. <br>
-- 🌱 I’m currently learning DAA and Database Management along with that I am studying Operating Systems. <br>
-- 👯 I’m looking to collaborate on Ocean Cleanup Projects. <br>
-- 🤔 I’m looking for help with Finding an interesting project. <br>
+- 🌱 I’m currently learning AI and Software Engineering along with that I am studying Graph Theory. <br>
+- 👯 I’m looking to collaborate on <i>Ocean Cleanup Projects</i>. <br>
+- 🤔 I’m looking for help with <i>Finding an interesting project</i>. <br>
 - 💬 Ask me about <a href = "https://priyanshbordia.github.io" style="text-decoration: none !important;">anything</a>. <br>
 - 📫 How to reach me: <a href = "mailto:priyanshbordia2@gmail.com">E-mail</a>. <br>
 - 😄 Pronouns: he / his / him <br>
