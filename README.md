@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href = "mailto:priyanshbordia2@gmail.com">E-mail</a>. <br>
 - 😄 Pronouns: he / his / him <br>
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge". <br>
-- ⚡ Fun fact: Quarantine is not that bad. or is it.!<br>
+- ⚡ Fun fact: Being at one place is not that bad.!<br>
 </details>
 
 <details open>
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   <summary>GitHub Language Stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshBordia&layout=compact)" alt="PriyanshBordia's GitHub Language Stats" />
+  <img  align="right" src="http://github-readme-streak-stats.herokuapp.com?user=PriyanshBordia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=A6DDCE)" alt="PriyanshBordia's GitHub Language Stats" />
   <br>
 </details> 
 
