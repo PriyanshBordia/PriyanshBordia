@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Being at one place is not that bad.!<br>
 </details>
 
-<!-- <details open> -->
-<!-- <summary>GitHub Stats</summary> -->
-<!-- <br> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=onedark" alt="PriyanshBordia's GitHub Stats" /> -->
-<!-- <br> -->
-<!-- </details>  -->
+<details open>
+<summary>GitHub Stats</summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=onedark" alt="PriyanshBordia's GitHub Stats" />
+<br>
+</details> 
 
 <details open>
   <summary>GitHub Language Stats</summary>
