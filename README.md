@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 </details> 
 
-<details open>
+<details>
   <summary>GitHub Language Stats</summary>
   <br>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshBordia&layout=compact)" alt="PriyanshBordia's GitHub Language Stats" /> -->
