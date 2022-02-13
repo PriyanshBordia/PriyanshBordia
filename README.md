@@ -16,8 +16,8 @@ Here are some ideas to get you started:
   <hr>
 - 👋 I'm Priyansh Bordia, web developer 💻 from India. <br>
 - 🏘 I'm pursuing Bachelors in Technology major Computer Science and Engineering from LNMIIT, Jaipur. <br>
-- 🔭 I’m currently working on finding a scintillating theme to work on. <br>
-- 🌱 I’m currently learning AI and Software Engineering along with that I am studying Graph Theory. <br>
+- 🔭 I’m currently working with Delta.Exchange. <br>
+- 🌱 I’m currently learning AI and Compiler Design along with that I am studying Deep Learning. <br>
 - 👯 I’m looking to collaborate on <i>Ocean Cleanup Projects</i>. <br>
 - 🤔 I’m looking for help with <i>Finding an interesting project</i>. <br>
 - 💬 Ask me about <a href = "https://priyanshbordia.github.io" style="text-decoration: none !important;">anything</a>. <br>
@@ -30,15 +30,22 @@ Here are some ideas to get you started:
 <details open>
 <summary>GitHub Stats</summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=onedark" alt="PriyanshBordia's GitHub Stats" />
+	<img src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=dracula&hide_border=true" alt="PriyanshBordia's GitHub Stats" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=PriyanshBordia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="PriyanshBordia's Contribution Stats" />  
 <br>
 </details> 
 
 <details>
   <summary>GitHub Language Stats</summary>
   <br>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshBordia&layout=compact)" alt="PriyanshBordia's GitHub Language Stats" /> -->
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=PriyanshBordia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=A6DDCE)" alt="PriyanshBordia's GitHub Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshBordia&layout=compact" alt="PriyanshBordia's GitHub Language Stats" />
+  <br>
+</details> 
+
+<details>
+  <summary>GitHub Contribution Graph</summary>
+  <br>
+ <img align="center" src="https://gh-readme.herokuapp.com/graph?username=PriyanshBordia&custom_title=Contribution%20Graph&theme=dracula" alt="PriyanshBordia's Contribution Graph">
   <br>
 </details> 
 
@@ -55,8 +62,6 @@ Here are some ideas to get you started:
 </details> 
 
 <hr>
-
-
 
 
 <!--
