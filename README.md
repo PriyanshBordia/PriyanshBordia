@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <details open>
 <summary>GitHub Stats</summary>
 <br>
-	<img src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=dracula&hide_border=true" alt="PriyanshBordia's GitHub Stats" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=dracula&hide_border=true" alt="PriyanshBordia's GitHub Stats" />
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=PriyanshBordia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="PriyanshBordia's Contribution Stats" />  
 <br>
 </details> 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <br>
 </details> 
 
-<details>
+<details open>
   <summary>GitHub Contribution Graph</summary>
   <br>
  <img align="center" src="https://gh-readme.herokuapp.com/graph?username=PriyanshBordia&custom_title=Contribution%20Graph&theme=dracula" alt="PriyanshBordia's Contribution Graph">
