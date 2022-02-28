@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <details open>
 <summary>GitHub Stats</summary>
 <br>
-	<img align="left"  height="400vh" width="400vw" src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=dracula&hide_border=true" alt="PriyanshBordia's GitHub Stats" />
-	<img  height="400vh" width="400vw" src="http://github-readme-streak-stats.herokuapp.com?user=PriyanshBordia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="PriyanshBordia's Contribution Stats" />  
+	<img align="center"  height="200vh" width="480vw" src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=dracula&hide_border=true" alt="PriyanshBordia's GitHub Stats" />
+	<img  align="right" height="200vh" width="480vw" src="http://github-readme-streak-stats.herokuapp.com?user=PriyanshBordia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="PriyanshBordia's Contribution Stats" />  
 <br>
 </details> 
 
@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 <details>
   <summary>Social Handles</summary>
   <br>
-
   ![Twitter Follow](https://img.shields.io/twitter/follow/priyanshbordia_?label=Follow&style=social)
   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyansh-b-81bb8218b) 
 
