@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 <details>
   <summary>Social Handles</summary>
   <br>
-  
   ![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social)
   ![Twitter Follow](https://img.shields.io/twitter/follow/priyanshbordia_?label=Follow&style=social)
   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyansh-b-81bb8218b) 
@@ -62,8 +61,7 @@ Here are some ideas to get you started:
 </details> 
 
 <hr>
-
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyanshBordia&label=Profile%20views&color=0e75b6&style=flat" alt="PriyanshBordia" /> </p> -->
 <!--
 <a href="https://github.com/PriyanshBordia" aria-label="Follow @PriyanshBordia on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@PriyanshBordia-navy?style=for-the-badge"/>
 </a>
