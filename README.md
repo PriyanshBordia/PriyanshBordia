@@ -11,10 +11,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>About</summary>
-  <br>
-  <img src = "https://github.com/PriyanshBordia/PriyanshBordia.github.io/blob/master/Cards/Screenshot%202021-04-25%20at%2011.08.32%20PM.png" />
-  <hr>
-- 👋 I'm Priyansh Bordia, web developer 💻 from India. <br>
+- 👋 I'm Priyansh Bordia, web developer 💻 based in India. <br>
 - 🏘 I'm pursuing Bachelors in Technology major Computer Science and Engineering from LNMIIT, Jaipur. <br>
 - 🔭 I’m currently working with Delta.Exchange. <br>
 - 🌱 I’m currently learning AI and Compiler Design along with that I am studying Deep Learning. <br>
@@ -56,14 +53,14 @@ Here are some ideas to get you started:
   ![Twitter Follow](https://img.shields.io/twitter/follow/priyanshbordia_?label=Follow&style=social)
   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyansh-b-81bb8218b) 
 
-  - [Résumé](https://drive.google.com/file/d/1-QIbu3gUQHk2LxPiANF322I9xVQ4z-hl/view)
-  - [OctoProfile](https://octoprofile.now.sh/user?id=PriyanshBordia)
+<!--   [Résumé](https://drive.google.com/file/d/1-QIbu3gUQHk2LxPiANF322I9xVQ4z-hl/view) -->
+<!--   [OctoProfile](https://octoprofile.now.sh/user?id=PriyanshBordia) -->
 </details> 
 
-<hr>
 <!-- ![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social) -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyanshBordia&label=Profile%20views&color=0e75b6&style=flat" alt="PriyanshBordia" /> </p> -->
 <!--
 <a href="https://github.com/PriyanshBordia" aria-label="Follow @PriyanshBordia on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@PriyanshBordia-navy?style=for-the-badge"/>
 </a>
 -->
+<!-- <img src = "https://github.com/PriyanshBordia/PriyanshBordia.github.io/blob/master/Cards/Screenshot%202021-04-25%20at%2011.08.32%20PM.png" /> -->
