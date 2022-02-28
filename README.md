@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <details>
   <summary>Social Handles</summary>
   <br>
+	
   ![Twitter Follow](https://img.shields.io/twitter/follow/priyanshbordia_?label=Follow&style=social)
   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyansh-b-81bb8218b) 
 
