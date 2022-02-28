@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <details open>
 <summary>GitHub Stats</summary>
 <br>
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=dracula&hide_border=true" alt="PriyanshBordia's GitHub Stats" />
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=PriyanshBordia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="PriyanshBordia's Contribution Stats" />  
+	<img align="left"  height="400vh" width="400vw" src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=dracula&hide_border=true" alt="PriyanshBordia's GitHub Stats" />
+	<img  height="400vh" width="400vw" src="http://github-readme-streak-stats.herokuapp.com?user=PriyanshBordia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="PriyanshBordia's Contribution Stats" />  
 <br>
 </details> 
 
@@ -52,15 +52,16 @@ Here are some ideas to get you started:
 <details>
   <summary>Social Handles</summary>
   <br>
-  ![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social)
+
   ![Twitter Follow](https://img.shields.io/twitter/follow/priyanshbordia_?label=Follow&style=social)
   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyansh-b-81bb8218b) 
-  <br>
-  [Résumé](https://drive.google.com/file/d/1-QIbu3gUQHk2LxPiANF322I9xVQ4z-hl/view)
-  [OctoProfile](https://octoprofile.now.sh/user?id=PriyanshBordia)
+
+  - [Résumé](https://drive.google.com/file/d/1-QIbu3gUQHk2LxPiANF322I9xVQ4z-hl/view)
+  - [OctoProfile](https://octoprofile.now.sh/user?id=PriyanshBordia)
 </details> 
 
 <hr>
+<!-- ![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social) -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyanshBordia&label=Profile%20views&color=0e75b6&style=flat" alt="PriyanshBordia" /> </p> -->
 <!--
 <a href="https://github.com/PriyanshBordia" aria-label="Follow @PriyanshBordia on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@PriyanshBordia-navy?style=for-the-badge"/>
