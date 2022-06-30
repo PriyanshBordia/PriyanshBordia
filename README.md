@@ -40,13 +40,6 @@ Here are some ideas to get you started:
 </details> 
 
 <details>
-  <summary>GitHub Contribution Graph</summary>
-  <br>
- <img align="center" src="https://gh-readme.herokuapp.com/graph?username=PriyanshBordia&custom_title=Contribution%20Graph&theme=dracula" alt="PriyanshBordia's Contribution Graph">
-  <br>
-</details> 
-
-<details>
   <summary>Social Handles</summary>
   <br>
 	
