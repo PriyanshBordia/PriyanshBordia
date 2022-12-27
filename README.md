@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <details open>
   <summary>About</summary>
-- 👋 I'm Priyansh Bordia, web developer 💻 based in India. <br>
+- 👋 I'm Priyansh Bordia, an engineer 💻 based in India. <br>
 - 🏘 I'm pursuing Bachelors in Technology major Computer Science and Engineering from LNMIIT, Jaipur. <br>
 - 🔭 I’m currently working with Delta.Exchange. <br>
 <!-- - 🌱 I’m currently learning AI and Compiler Design along with that I am studying Deep Learning. <br> -->
