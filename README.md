@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- - ⚡ Fun fact: Being at one place is not that bad.!<br> -->
 </details>
 
-<!-- <details open>
+<details>
 <summary>GitHub Stats</summary>
 <br>
 	<img align="center"  height="200vh" width="410vw" src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=dracula&hide_border=true" alt="PriyanshBordia's GitHub Stats" />
@@ -38,14 +38,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshBordia&layout=compact" alt="PriyanshBordia's GitHub Language Stats" />
   <br>
 </details> 
--->
+
 <details>
   <summary>Social Handles</summary>
   <br>
 	
   ![Twitter Follow](https://img.shields.io/twitter/follow/priyanshbordia_?label=Follow&style=social)
   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyanshbordia) 
-
 <!--   [Résumé](https://drive.google.com/file/d/1-QIbu3gUQHk2LxPiANF322I9xVQ4z-hl/view) -->
 <!--   [OctoProfile](https://octoprofile.now.sh/user?id=PriyanshBordia) -->
 </details> 
