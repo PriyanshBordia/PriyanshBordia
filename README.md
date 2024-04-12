@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 <br>
 </details> 
  
-<details>
+<!-- <details>
   <summary>GitHub Language Stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshBordia&layout=compact" alt="PriyanshBordia's GitHub Language Stats" />
   <br>
-</details> 
+</details> -->
 
 <!-- <details>
   <summary>Social Handles</summary>
@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 	
   ![Twitter Follow](https://img.shields.io/twitter/follow/priyanshbordia_?label=Follow&style=social)
   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyanshbordia) 
-<!--   [Résumé](https://drive.google.com/file/d/1-QIbu3gUQHk2LxPiANF322I9xVQ4z-hl/view) -->
-<!--   [OctoProfile](https://octoprofile.now.sh/user?id=PriyanshBordia) -->
-</details>
+ [Résumé](https://drive.google.com/file/d/1-QIbu3gUQHk2LxPiANF322I9xVQ4z-hl/view)
+[OctoProfile](https://octoprofile.now.sh/user?id=PriyanshBordia)
+</details> -->
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/PriyanshBordia?label=Follow&style=social) -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyanshBordia&label=Profile%20views&color=0e75b6&style=flat" alt="PriyanshBordia" /> </p> -->
