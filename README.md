@@ -13,12 +13,12 @@ Here are some ideas to get you started:
   <summary>About</summary>
 - 👋 I'm Priyansh Bordia, an engineer 💻 based in India 🇮🇳. <br>
 - 🏘 I did my Bachelor in Technology major in Computer Science and Engineering from LNMIIT, Jaipur. <br>
-- 🔭 I’m currently working with Delta Exchange. <br>
+<!-- - 🔭 I’m currently working with Delta Exchange. <br> -->
 <!-- - 🌱 I’m currently learning AI and Compiler Design; along with that, I am studying Deep Learning. <br> -->
 <!-- - 👯 I’m looking to collaborate on <i>Ocean Cleanup Projects</i>. <br> -->
 <!-- - 🤔 I’m looking for help with <i>Finding an interesting project</i>. <br> -->
 - 💬 Ask me about <a href = "https://priyanshbordia.github.io" style="text-decoration: none !important;">anything</a>. <br>
-- 📫 How to reach me: <a href = "mailto:priyanshbordia2@gmail.com">E-mail</a>. <br>
+<!-- - 📫 How to reach me: <a href = "mailto:">E-mail</a>. <br> -->
 - 😄 Pronouns: he / his / him <br>
 <!-- - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge". <br> -->
 <!-- - ⚡ Fun fact: Being at one place is not that bad.!<br> -->
