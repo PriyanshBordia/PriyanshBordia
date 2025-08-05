@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <details open>
   <summary>About</summary>
 - 👋 I'm Priyansh Bordia, an engineer 💻 based in India 🇮🇳. <br>
-- 🏘 I did my Bachelor in Technology major in Computer Science and Engineering from LNMIIT, Jaipur. <br>
+- 🏘 I did my Bachelors in Technology major in Computer Science and Engineering from LNMIIT, Jaipur. <br>
 - 🔭 I’m currently working with Delta.Exchange. <br>
 <!-- - 🌱 I’m currently learning AI and Compiler Design; along with that, I am studying Deep Learning. <br> -->
 <!-- - 👯 I’m looking to collaborate on <i>Ocean Cleanup Projects</i>. <br> -->
