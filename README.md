@@ -24,5 +24,4 @@ Software Engineer at [Delta.Exchange](https://www.delta.exchange/) based in Indi
 
 ## GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PriyanshBordia&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
 <img height="180" src="https://streak-stats.demolab.com?user=PriyanshBordia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
