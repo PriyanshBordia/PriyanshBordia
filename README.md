@@ -21,7 +21,3 @@ Software Engineer at [Delta.Exchange](https://www.delta.exchange/) based in Indi
 
 **Infrastructure**\
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-
-## GitHub Stats
-
-<img height="180" src="https://streak-stats.demolab.com?user=PriyanshBordia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
